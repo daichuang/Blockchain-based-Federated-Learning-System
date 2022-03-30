@@ -1,0 +1,85 @@
+# github.com/DataDog/go-python3 v0.0.0-20211102160307-40adc605f1fe
+## explicit
+github.com/DataDog/go-python3
+# github.com/boltdb/bolt v1.3.1
+## explicit
+github.com/boltdb/bolt
+# github.com/coniks-sys/coniks-go v0.0.0-20180722014011-11acf4819b71
+## explicit
+github.com/coniks-sys/coniks-go/crypto/internal/ed25519/edwards25519
+github.com/coniks-sys/coniks-go/crypto/internal/ed25519/extra25519
+github.com/coniks-sys/coniks-go/crypto/vrf
+# github.com/dexyk/stringosim v0.0.0-20170922105913-9d0b3e91a842
+## explicit
+github.com/dexyk/stringosim
+# github.com/go-gota/gota v0.12.0
+## explicit
+# github.com/gonum/blas v0.0.0-20181208220705-f22b278b28ac
+## explicit
+github.com/gonum/blas
+github.com/gonum/blas/blas64
+github.com/gonum/blas/native
+github.com/gonum/blas/native/internal/math32
+# github.com/gonum/floats v0.0.0-20181209220543-c233463c7e82
+## explicit
+github.com/gonum/floats
+# github.com/gonum/internal v0.0.0-20181124074243-f884aa714029
+## explicit
+github.com/gonum/internal/asm/f32
+github.com/gonum/internal/asm/f64
+# github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9
+## explicit
+github.com/gonum/lapack
+github.com/gonum/lapack/lapack64
+github.com/gonum/lapack/native
+# github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9
+## explicit
+github.com/gonum/matrix
+github.com/gonum/matrix/mat64
+# github.com/joho/godotenv v1.4.0
+## explicit
+github.com/joho/godotenv
+# github.com/khaibin/go-cosinesimilarity v0.0.1
+## explicit
+# github.com/sbinet/go-python v0.1.0
+## explicit
+github.com/sbinet/go-python
+# go.dedis.ch/fixbuf v1.0.3
+go.dedis.ch/fixbuf
+# go.dedis.ch/kyber/v3 v3.0.13
+## explicit
+go.dedis.ch/kyber/v3
+go.dedis.ch/kyber/v3/group/internal/marshalling
+go.dedis.ch/kyber/v3/group/mod
+go.dedis.ch/kyber/v3/pairing/bn256
+go.dedis.ch/kyber/v3/util/random
+go.dedis.ch/kyber/v3/xof/blake2xb
+# golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+golang.org/x/crypto/blake2b
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/sha3
+# golang.org/x/exp v0.0.0-20211105205138-14c72366447f
+## explicit
+# golang.org/x/sys v0.0.0-20211019181941-9d821ace8654
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# gonum.org/v1/gonum v0.9.3
+## explicit
+gonum.org/v1/gonum/blas
+gonum.org/v1/gonum/blas/blas64
+gonum.org/v1/gonum/blas/cblas128
+gonum.org/v1/gonum/blas/gonum
+gonum.org/v1/gonum/floats
+gonum.org/v1/gonum/floats/scalar
+gonum.org/v1/gonum/internal/asm/c128
+gonum.org/v1/gonum/internal/asm/c64
+gonum.org/v1/gonum/internal/asm/f32
+gonum.org/v1/gonum/internal/asm/f64
+gonum.org/v1/gonum/internal/cmplx64
+gonum.org/v1/gonum/internal/math32
+gonum.org/v1/gonum/lapack
+gonum.org/v1/gonum/lapack/gonum
+gonum.org/v1/gonum/lapack/lapack64
+gonum.org/v1/gonum/mat
