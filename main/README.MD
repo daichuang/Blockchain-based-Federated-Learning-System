@@ -1,0 +1,4 @@
+
+基于paillier的同态加密系统，采用cuda加速大数运算。底层采用CUDA编写编译
+为了在Python中调用，基于pybind实现python与cuda的对接
+编译完成以后，需要导入我们自己编写的库gpulib.so作为phe的后端。
